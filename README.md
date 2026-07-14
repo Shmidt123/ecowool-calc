@@ -1,1 +1,0 @@
-# ecowool-calc
